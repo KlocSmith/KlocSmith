@@ -73,7 +73,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
     <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/KlocSmith/KlocSmith/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="tencent://message/?uin=2727800195">
-    <img align="left" alt="QQ" width="130" height="100" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tencent_QQ.png" />
+    <img align="left" alt="QQ" width="130" height="100" src="https://github.com/KlocSmith/KlocSmith/blob/master/assets/icons/qq.png" />
 </a>
 
 
