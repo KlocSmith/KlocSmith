@@ -70,8 +70,13 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:smithkloc@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/KlocSmith/KlocSmith/blob/master/assets/icons/gmail.png" />
+    <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/KlocSmith/KlocSmith/blob/master/assets/icons/gmail.png" />
 </a>
+<a href="tencent://message/?uin=2727800195">
+    <img align="left" alt="QQ" width="130" height="100" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tencent_QQ.png" />
+</a>
+
+
 </br>
 </br>
 </br>
